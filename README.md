@@ -1,4 +1,4 @@
-## Hi, I'm Maheen 👋
+# Hi, I'm Maheen 👋
 
 I'm a <b>3rd-year Computer Science student</b> at Ontario Tech University, exploring <b>AI, Cloud, and human-centered software</b>. I’m passionate about building tools that make a positive impact on people’s lives.
   
