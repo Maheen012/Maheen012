@@ -45,7 +45,7 @@ I'm a <b>3rd-year Computer Science student</b> at Ontario Tech University, explo
 ## Let's Connect
 Feel free to reach out or connect with me!
 <p align="center">
-  <a href="mailto:maheenmohammadalim@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=maheenmohammadalim@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/maheenmohammadalim/">
