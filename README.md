@@ -1,6 +1,8 @@
-# Hi, I'm Maheen 👋
+<h1 align="center">Hi, I'm Maheen 👋</h1>
 
-I'm a <b>3rd-year Computer Science student</b> at Ontario Tech University, exploring <b>AI, Cloud, and human-centered software</b>. I’m passionate about building tools that make a positive impact on people’s lives.
+<p align="center">
+I'm a <b>3rd-year Computer Science student</b> at Ontario Tech University, exploring <b>AI, Cloud, and human-centered software</b>. I’m passionate about building tools that make a positive impact on people’s lives.  
+</p>
   
 ---
 
