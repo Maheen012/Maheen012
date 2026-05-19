@@ -38,7 +38,7 @@ I'm a <b>3rd-year Computer Science student</b> at Ontario Tech University, explo
 Checkout more of my projects and technical experience.
 <p align="center">
   <a href="https://portfolio-maheen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
     <a href="https://github.com/Maheen012?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
